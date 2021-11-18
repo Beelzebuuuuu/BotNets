@@ -1,11 +1,10 @@
-# botnets
-This is a collection of botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
+## Botnets
 
+![Botnets running](https://www.analyticsinsight.net/wp-content/uploads/2020/01/cso_botnets_robots_by_tampatra_gettyimages-958007764blue_binary_matrix_by_bannosuke_gettyimages-687353118_2400x1600-100800407-large.jpg)
 
-Many projects are duplicates or revisions of each other. Many of them have outdated depedencies. My goal is to collectively put them together so that they are compilable and help people interested in malware research analyze them and learn from these samples. 
+Esta es una colección de códigos fuente de botnets, desorganizados. SOLO PARA FINES EDUCATIVOS
+## Donativos
 
-## Donations
-
-Donations are appreciated:
+Donativos para el creador:
 
 (BTC): 1FPZzkoUxe2uXzne4KML6TYzASCieWXS6E
